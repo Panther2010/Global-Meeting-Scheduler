@@ -1,0 +1,234 @@
+{
+    "Mohit": {
+        "location": "Aligarh, India",
+        "timezone": "Asia/Kolkata",
+        "hours": {
+            "Mon": null,
+            "Tue": [
+                8,
+                22
+            ],
+            "Wed": [
+                8,
+                22
+            ],
+            "Thu": [
+                8,
+                22
+            ],
+            "Fri": null,
+            "Sat": null,
+            "Sun": null
+        }
+    },
+    "Lakshya": {
+        "location": "Tokyo, Japan",
+        "timezone": "Asia/Tokyo",
+        "hours": {
+            "Mon": null,
+            "Tue": [
+                8,
+                22
+            ],
+            "Wed": [
+                8,
+                22
+            ],
+            "Thu": [
+                8,
+                22
+            ],
+            "Fri": null,
+            "Sat": null,
+            "Sun": null
+        }
+    },
+    "Abhishek": {
+        "location": "Madrid, Spain",
+        "timezone": "Europe/Madrid",
+        "hours": {
+            "Mon": null,
+            "Tue": [
+                8,
+                22
+            ],
+            "Wed": [
+                8,
+                22
+            ],
+            "Thu": [
+                8,
+                22
+            ],
+            "Fri": null,
+            "Sat": null,
+            "Sun": null
+        }
+    },
+    "Neha": {
+        "location": "New York, USA",
+        "timezone": "America/New_York",
+        "hours": {
+            "Mon": null,
+            "Tue": [
+                8,
+                22
+            ],
+            "Wed": [
+                8,
+                22
+            ],
+            "Thu": [
+                8,
+                22
+            ],
+            "Fri": null,
+            "Sat": null,
+            "Sun": null
+        }
+    },
+    "Krishna": {
+        "location": "Egypt, Africa",
+        "timezone": "Africa/Cairo",
+        "hours": {
+            "Mon": null,
+            "Tue": [
+                8,
+                22
+            ],
+            "Wed": [
+                8,
+                22
+            ],
+            "Thu": [
+                8,
+                22
+            ],
+            "Fri": null,
+            "Sat": null,
+            "Sun": null
+        }
+    },
+    "Aparna": {
+        "location": "Seoul, South Korea",
+        "timezone": "Asia/Seoul",
+        "hours": {
+            "Mon": null,
+            "Tue": [
+                8,
+                22
+            ],
+            "Wed": [
+                8,
+                22
+            ],
+            "Thu": [
+                8,
+                22
+            ],
+            "Fri": null,
+            "Sat": null,
+            "Sun": null
+        }
+    },
+    "Deeksha": {
+        "location": "Beijing, China",
+        "timezone": "Asia/Shanghai",
+        "hours": {
+            "Mon": null,
+            "Tue": [
+                8,
+                22
+            ],
+            "Wed": [
+                8,
+                22
+            ],
+            "Thu": [
+                8,
+                22
+            ],
+            "Fri": null,
+            "Sat": null,
+            "Sun": null
+        }
+    },
+    "Tushar": {
+        "location": "Pune, India",
+        "timezone": "Asia/Kolkata",
+        "hours": {
+            "Mon": null,
+            "Tue": [
+                8,
+                22
+            ],
+            "Wed": [
+                8,
+                22
+            ],
+            "Thu": [
+                8,
+                22
+            ],
+            "Fri": null,
+            "Sat": null,
+            "Sun": null
+        }
+    },
+    "Soham": {
+        "location": "France",
+        "timezone": "Europe/Paris",
+        "hours": {
+            "Mon": [
+                8,
+                22
+            ],
+            "Tue": [
+                8,
+                22
+            ],
+            "Wed": [
+                8,
+                22
+            ],
+            "Thu": [
+                8,
+                22
+            ],
+            "Fri": [
+                8,
+                22
+            ],
+            "Sat": null,
+            "Sun": null
+        }
+    },
+    "Unnati": {
+        "location": "Germany",
+        "timezone": "Europe/Berlin",
+        "hours": {
+            "Mon": [
+                8,
+                22
+            ],
+            "Tue": [
+                8,
+                22
+            ],
+            "Wed": [
+                8,
+                22
+            ],
+            "Thu": [
+                8,
+                22
+            ],
+            "Fri": [
+                8,
+                22
+            ],
+            "Sat": null,
+            "Sun": null
+        }
+    }
+}
