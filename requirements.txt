@@ -6,3 +6,4 @@ timezonefinder
 supabase
 openpyxl
 pycountry
+geonamescache
